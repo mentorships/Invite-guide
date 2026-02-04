@@ -18,6 +18,8 @@ https://mentorships.anb-network.com
 |Repository 이름|수업 시 전달 예정|
 |X-API-KEY|수업 시 전달 예정|
 
+<img src="./github-username.png" alt="github-username" width="250"> << 빨간색 박스 부분 참고
+
 <br/>
 
 ## 🚀 사용 방법
